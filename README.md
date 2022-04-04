@@ -5,6 +5,8 @@ Project built with React.js, Gatsby, and Contentful
 
 ## Link to Project
 
+https://gatsbycontentfulcloudclass.gatsbyjs.io/
+
 ## Tech Used
 
 React v17
