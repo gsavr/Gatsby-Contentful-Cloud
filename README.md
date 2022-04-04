@@ -9,10 +9,10 @@ https://gatsbycontentfulcloudclass.gatsbyjs.io/
 
 ## Tech Used
 
--React v17
--Gasby
--Contentful
--Styled Components
--FormSpree
--@contentful/rich-text-react-renderer
--gatsby-background-image
+- React v17
+- Gasby
+- Contentful
+- Styled Components
+- FormSpree
+- @contentful/rich-text-react-renderer
+- gatsby-background-image
