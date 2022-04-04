@@ -2,7 +2,7 @@
 
 Project built with React.js, Gatsby, and Contentful
 
-- Built to showcase an image editing product with features pages for both image and video editing as well as show pricing for suscription tiers
+- Built to showcase an image editing product with features pages for both image and video editing as well as show pricing for subscription tiers
 
 ## Link to Project
 
