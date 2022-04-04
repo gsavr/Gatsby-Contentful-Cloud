@@ -1,6 +1,6 @@
 # Gatsby-Contentful-Cloud
 
-Project built with React.js, Gatsby, and Contentful
+Project built with React.js, Gatsby, and Contentful - Hosted on Gatsby Cloud
 
 - Built to showcase an image editing product with features pages for both image and video editing as well as show pricing for subscription tiers
 
